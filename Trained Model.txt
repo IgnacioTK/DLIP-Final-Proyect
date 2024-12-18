@@ -12,3 +12,4 @@ Model Vgg19 with mediapipe: https://drive.google.com/file/d/1QnxdCbmnZeFPJBNBQnR
 Model resnet18 with mediapipe: https://drive.google.com/file/d/1521VV3NVWArPcHA6FeuW22mi1HjSwa5-/view?usp=drive_link
 Model Googlenet with mediapipe: https://drive.google.com/file/d/1iDlbw7oesjPHx8aSknKHGU82uPBwH6PY/view?usp=drive_link
 Model Alexnet with mediapipe: https://drive.google.com/file/d/1OlQTLEePjBLE0vmwXijhGRTAPJVMKcNK/view?usp=drive_link
+https://drive.google.com/drive/folders/1-rRO5BIXqWZbP0xRAPzF_RNiEgnyEqal?usp=sharing
