@@ -1,15 +1,3 @@
 It is not possible to upload the weights of the trained models to github, due to their weight. So they can be downloaded through this Drive link.
 
-Model Vgg19 without mediapipe: https://drive.google.com/file/d/1hXu_UhRrD7XjD_Tb0QBlV6771Nlc7NhW/view?usp=drive_link
-Model resnet18 without mediapipe: https://drive.google.com/file/d/1ZahGbVi0dcTtOrw7jkyW6J5f8hIYDKah/view?usp=drive_link
-Model Vgg16 without mediapipe: https://drive.google.com/file/d/16p_FGq51UZsj4JoMsBYlz2YAwZMTCrx9/view?usp=drive_link
-Model Googlenet without mediapipe: https://drive.google.com/file/d/1PO-pipvq_zTdombd5bK6xRa-bWimunad/view?usp=drive_link
-Model Alexnet without mediapipe: https://drive.google.com/file/d/1TBtCyc5MafhwT5M_f-NDoiPvruPKIcch/view?usp=drive_link
-Model MyModel without mediapipe: https://drive.google.com/file/d/1wCgw6TbQXU83SybOSuN7ydMQ60-3qu3e/view?usp=drive_link
-Model MyModel with mediapipe: https://drive.google.com/file/d/1DgeILoAuCoba7ykQLT-2kOavSs9K1yli/view?usp=drive_link
-Model Vgg16 without mediapipe: https://drive.google.com/file/d/1uDYyNYGCberPiXEYhLbCDriaQybNO3eA/view?usp=drive_link
-Model Vgg19 with mediapipe: https://drive.google.com/file/d/1QnxdCbmnZeFPJBNBQnR181QgPcZWZMSS/view?usp=drive_link
-Model resnet18 with mediapipe: https://drive.google.com/file/d/1521VV3NVWArPcHA6FeuW22mi1HjSwa5-/view?usp=drive_link
-Model Googlenet with mediapipe: https://drive.google.com/file/d/1iDlbw7oesjPHx8aSknKHGU82uPBwH6PY/view?usp=drive_link
-Model Alexnet with mediapipe: https://drive.google.com/file/d/1OlQTLEePjBLE0vmwXijhGRTAPJVMKcNK/view?usp=drive_link
 https://drive.google.com/drive/folders/1-rRO5BIXqWZbP0xRAPzF_RNiEgnyEqal?usp=sharing
